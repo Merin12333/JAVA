@@ -4,7 +4,7 @@ public class Search {
         int i,j,x=0;
         boolean state = false;
         Scanner sc = new Scanner(System.in);
-        System.out.println("JERIL JOY,NO:34,26-02-2024,PRGRM-C2.2 SEARCH");
+        System.out.println("MERIN BABU,NO:42,26-02-2024,PRGRM-C2.2 SEARCH");
         System.out.println("Enter the number of elemets in array");
         int num=sc.nextInt();
         String word[]=new String[num];

@@ -21,7 +21,7 @@ public class employee {
         System.out.println("Salary Amount"+eSalary+"\n");
     }
     public static void main(String[] args) {
-    System.out.println("JERIL JOY,NO:34,26-02-2024,PRGRM-C2.4 EMPLOYEE");
+    System.out.println("MERIN BABU,NO:42,26-02-2024,PRGRM-C2.4 EMPLOYEE");
         System.out.println("\nEnter the No. of Employee's");
         Scanner sc1 = new Scanner(System.in);
         int num = sc1.nextInt();

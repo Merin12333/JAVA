@@ -4,7 +4,7 @@ public class sort {
     public static void main(String[] args) {
     int i,j;
     Scanner sc = new Scanner(System.in);
-    System.out.println("JERIL JOY,NO:34,26-02-2024,PRGRM-C2.1 SORT");
+    System.out.println("MERIN BABU,NO:42,26-02-2024,PRGRM-C2.1 SORT");
     System.out.println("Enter the number of words");
     int num=sc.nextInt();
     String word[]=new String[num];

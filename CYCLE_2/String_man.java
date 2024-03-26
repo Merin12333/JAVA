@@ -1,7 +1,7 @@
 import java.util.Scanner;
 public class String_man{
     public static void main(String[] args) {
-        System.out.println("JERIL JOY,NO:34,26-02-2024,PRGRM-C2.3 STRING MANIPULATION");
+        System.out.println("MERIN BABU,NO:42,26-02-2024,PRGRM-C2.3 STRING MANIPULATION");
         System.out.println("Enter The String");
         Scanner sc = new Scanner(System.in);
         String str1 = sc.nextLine();

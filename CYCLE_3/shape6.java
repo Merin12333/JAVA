@@ -54,7 +54,7 @@ public class shape6
 {
     public static void main(String[] args) 
     {
-    System.out.println("JERIL JOY,NO:34,26-02-2024,PRGRM-C3.6 SHAPES");
+    System.out.println("MERIN BABU,NO:42,26-02-2024,PRGRM-C3.6 SHAPES");
         int ch;
         Scanner sc = new Scanner(System.in);
         Circle ob = new Circle();

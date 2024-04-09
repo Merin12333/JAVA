@@ -34,7 +34,7 @@ public class bill7
 {
     public static void main(String[] args) 
     {
-    System.out.println("JERIL JOY,NO:34,26-02-2024,PRGRM-C3.7 BILL");
+    System.out.println("MERIN BABU,NO:42,26-02-2024,PRGRM-C3.7 BILL");
         int n,i;
         double namount=0,t;
         int ran;

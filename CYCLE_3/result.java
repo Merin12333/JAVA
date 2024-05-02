@@ -7,7 +7,6 @@ class sports{
         sport = spo;
         Rating = ra;
     }
-
 }
 class student extends sports{
     String Grade;

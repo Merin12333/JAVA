@@ -6,7 +6,7 @@ public class cpu{
         processor(int noC, String manu){
             cores=noC;
             producer=manu;
-            System.out.println("JERIL JOY,NO:34,14-02-2024,PRGRM-5 CPU");
+            System.out.println("MERIN BABU,NO:42,14-02-2024,PRGRM-5 CPU");
         }
         void display(){
         System.out.println("\nProcessor info");

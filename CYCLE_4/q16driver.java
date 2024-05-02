@@ -10,7 +10,6 @@ public class q16driver {
         h_set.add("Black");
         h_set.add("Orange");
         h_set.add("Pink");
-
         HashSet<String>h_set2 = new HashSet<String>();
         h_set2.add("Red");
         h_set2.add("Pink");

@@ -16,7 +16,7 @@ int i;
     public static void main(String[] args) {
         complex first=new complex(5,4);
         complex second=new complex(7,9);
-        System.out.println("JERIL JOY,NO:34,13-02-2024,PRGRM-3 COMPLEX");
+        System.out.println("MERIN BABU,NO:42,13-02-2024,PRGRM-3 COMPLEX");
         System.out.println("Complex Numbers are:");
         first.display();
         second.display();

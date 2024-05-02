@@ -4,7 +4,6 @@ class Product {
     String pcode;
     String pname;
     double price;
-
     public Product(String pcode, String pname, double price) {
         this.pcode = pcode;
         this.pname = pname;

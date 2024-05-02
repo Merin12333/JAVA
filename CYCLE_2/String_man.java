@@ -12,5 +12,5 @@ public class String_man{
         System.out.println("Replace'col' with 'kol' : "+str1.replaceAll("Col","kol"));
         System.out.println("LOWERCASE : "+str1.toLowerCase());
         System.out.println("UPPERCASE : "+str1.toUpperCase());
-}
+    }
 }

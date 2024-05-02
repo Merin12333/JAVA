@@ -9,7 +9,7 @@ import java.util.Scanner;
         this.Name = na;
         this.Salary = sal;
         this.Address = add;
-    }
+   }
 }
 public class Teacher extends Employee{
  String dept;

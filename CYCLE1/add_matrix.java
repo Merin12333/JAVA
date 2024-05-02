@@ -4,7 +4,7 @@ public static void main(String args[])
 {
 int row, col,i,j;
 Scanner in = new Scanner(System.in);
-System.out.println("JAISON JACOB,NO:33,13-02-2024,PRGRM-2 ADD MATRIX");
+System.out.println("MERIN BABU,NO:42,13-02-2024,PRGRM-2 ADD MATRIX");
 System.out.println("Enter the number of rows");
 row = in.nextInt();
 System.out.println("Enter the number columns");

@@ -12,7 +12,7 @@ public class Search {
         for( i=0;i<num;i++){
         System.out.println("\nEnter a Word\n");
         word[i]=sc.nextLine();
-        }
+      }
         System.out.println("Enter the element to Search");
         String search = sc.nextLine();
         for( i=0;i<num;i++){

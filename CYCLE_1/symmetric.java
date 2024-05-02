@@ -2,7 +2,7 @@ import java.util.Scanner;
 public class symmetric {
 public static void main(String[] args) {
     Scanner sc = new Scanner(System.in);
-    System.out.println("JERIL JOY,NO:34,14-02-2024,PRGRM-4 SYMMETRIC");
+    System.out.println("MERIN BABU,NO:42,14-02-2024,PRGRM-4 SYMMETRIC");
 System.out.println("Enter the Number of rows of the Matrix");
 int row = sc.nextInt();
 System.out.println("Enter the Number of Columns of the Matrix");

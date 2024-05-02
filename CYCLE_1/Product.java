@@ -19,7 +19,6 @@ class Main {
         System.out.println("23mca042");
         System.out.println("13-02-24");
         System.out.println("\n");
-        
         Scanner scanner = new Scanner(System.in);
 
         Product[] products = new Product[3];

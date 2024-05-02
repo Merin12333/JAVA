@@ -19,8 +19,7 @@ public class Search {
             if(word[i].equals(search)){
                  x = i;
                 state = true;
-            }
-            }
+            }            }
             if(state){
         System.out.println("Element found at  position = "+x);
             }
